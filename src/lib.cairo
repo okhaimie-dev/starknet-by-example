@@ -17,3 +17,9 @@ mod counter {
 mod mappings {
     mod map_contract;
 }
+
+mod errors {
+    mod example_error;
+    mod custom_error;
+    mod vault_example;
+}
