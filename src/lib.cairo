@@ -13,3 +13,7 @@ mod mutability_visibility {
 mod counter {
     mod simple_counter;
 }
+
+mod mappings {
+    mod map_contract;
+}
