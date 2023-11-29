@@ -5,3 +5,7 @@ mod variables {
     mod local_variables;
     mod storage_variables;
 }
+
+mod mutability_visibility {
+    mod example;
+}
