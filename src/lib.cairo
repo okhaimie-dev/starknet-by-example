@@ -9,3 +9,7 @@ mod variables {
 mod mutability_visibility {
     mod example;
 }
+
+mod counter {
+    mod simple_counter;
+}
