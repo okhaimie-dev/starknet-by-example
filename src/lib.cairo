@@ -23,3 +23,7 @@ mod errors {
     mod custom_error;
     mod vault_example;
 }
+
+mod events {
+    mod event_counter;
+}
