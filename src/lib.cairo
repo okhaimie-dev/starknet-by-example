@@ -27,3 +27,8 @@ mod errors {
 mod events {
     mod event_counter;
 }
+
+mod custom_type {
+    mod custom_type;
+    mod serde_custom_type;
+}
